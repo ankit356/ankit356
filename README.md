@@ -78,12 +78,12 @@ const ankit = {
 ## 📊 GitHub Contributions & Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankit356&show_icons=true&count_private=true&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&bg_color=0d1117" alt="Ankit's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankit356&show_icons=true&count_private=true&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&bg_color=0d1117" alt="Ankit's GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=ankit356&hide_border=true&background=0d1117&stroke=2DD4BF&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit356&layout=compact&hide_border=true&title_color=2DD4BF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankit356&layout=compact&hide_border=true&title_color=2DD4BF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- Contribution activity graph -->
@@ -97,7 +97,7 @@ const ankit = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankit356&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ankit356&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---

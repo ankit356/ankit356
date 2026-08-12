@@ -106,7 +106,7 @@ const ankit = {
 
 | Project | Description | Tech Stack |
 | :------ | :---------- | :--------- |
-| **🏭 Kalanidhi Studio ERP** | Full-stack Job-Work ERP digitizing a design studio's lifecycle — inward, multi-department processing, dispatch & GST invoicing across **16+ modules** with RBAC & a quantity-reconciliation engine. | `Node.js` `Express` `Next.js` `TypeScript` `MySQL` |
+| **🏭 Job Process ERP** | Full-stack Job-Work ERP digitizing a design studio's lifecycle — inward, multi-department processing, dispatch & GST invoicing across **16+ modules** with RBAC & a quantity-reconciliation engine. | `Node.js` `Express` `Next.js` `TypeScript` `MySQL` |
 | **👥 HRMS & Payroll System** | HR management with integrated payroll for multiple companies & branches — geo-tagging, geo-fencing, face recognition attendance & automated salary calculation. | `Laravel` `MySQL` |
 | **🏥 Ayurvedic & Naturopathy HMS** | Role-based Hospital Management System for OPD/IPD/daycare with specialized diet & therapy assignment modules. | `Laravel` `AdminLTE` `MySQL` |
 | **⏱️ Attendance Management System** | Real-time biometric attendance via WebSocket — reduced manual effort by **90%**. | `PHP` `Laravel` `WebSocket` `MySQL` |
